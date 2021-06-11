@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NadetteTochi
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning T.A
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
 <!---
